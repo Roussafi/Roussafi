@@ -5,7 +5,7 @@
         }, 1500);
         setTimeout(function() {
             Materialize.toast('<span>اتمنى ان تقضوا افضل الاقاوت معنا</span>', 3000);
-        }, 5000);
+        }, 500000000000);
 
  setTimeout(function() {
             Materialize.toast('<span>لا تنسى الاشتراك في المدونة وتحفيزنا بالتعليقات</span>', 1500);
