@@ -1,7 +1,7 @@
     // Toast Notification
     $(window).load(function() {
         setTimeout(function() {
-            Materialize.toast('<span>أهلا بكم في مدونة أبواب</span>', 1500);
+            Materialize.toast('<span>أهلا بكم في مدونة أبواب</span>', 15000000);
         }, 1500);
         setTimeout(function() {
             Materialize.toast('<span>اتمنى ان تقضوا افضل الاقاوت معنا</span>', 3000);
