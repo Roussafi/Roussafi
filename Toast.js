@@ -4,8 +4,8 @@
             Materialize.toast('<span>أهلا بكم في مدونة أبواب</span>', 1500);
         }, 1500);
         setTimeout(function() {
-            Materialize.toast('<span>اتمنى ان تقضوا افضل الاقاوت معنا</span>', 30000000000000);
-        }, 500000000000000000);
+            Materialize.toast('<span>اتمنى ان تقضوا افضل الاقاوت معنا</span>', 3000);
+        }, 5000);
 
  setTimeout(function() {
             Materialize.toast('<span>لا تنسى الاشتراك في المدونة وتحفيزنا بالتعليقات</span>', 1500);
