@@ -2,6 +2,6 @@
 				contentFeed: 'http://feeds.gawker.com/gizmodo/full', 
 				tickerTitle: 'Mini New Feed', 
 				tickerMode: 'mini', 
-				buttons: false, 
+				buttons: true, 
 				speed: 600
 			}); 
